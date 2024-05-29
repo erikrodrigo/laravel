@@ -1,0 +1,5 @@
+Validador de API
+https://developers.facebook.com/tools/explorer/IDDD/?method=POST&path=IDDD%2Fevents&version=v14.0
+
+
+EAAH89nBDwZCMBAIwp9tpmsRlvDrKXuCDRbm3z9ANPnAiUVOZBWUryOf2xdre30gOMEt6lDSFdELJW0ChCO4EgvZBOm1Gla0Wv4NhCuZCsEI45UXIcphavDsuZBaBhh32C1jxnAmoU9ngMmbjpDsgpbnnEGAFh0gProwiTdXwrgtThDc5lRjTkeZCbTxVMFDJoZD
